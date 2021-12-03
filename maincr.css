@@ -1,0 +1,15 @@
+*{
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+}
+
+#error-message {
+    display: block;
+    font-size: larger;
+    margin: 1rem 0 0;
+  }
